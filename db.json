@@ -1,0 +1,40 @@
+{
+  "projects": [
+    {
+      "id": "7160",
+      "name": "1233",
+      "budget": "13",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "35dd",
+      "name": "Breno José Leal Santana dos Santos",
+      "budget": "1232322",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ]
+}
